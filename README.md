@@ -26,11 +26,7 @@ A modern, responsive landing page built with **HTML5** and **CSS3** for an India
 
 ---
 
-## 🚀 How to Run the Project Locally
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-username/spice-rasta.git
 
 
 
