@@ -13,6 +13,7 @@ body {
             width: 100%;
             background:#000000;
             backdrop-filter: blur(10px);
+            
             z-index: 1000;
             padding: 1rem 0;
             transition: all 0.3s ease;
@@ -413,13 +414,20 @@ p{
 
 
 
-/* Map Frame */
+.map-container {
+    width: 100%;
+    max-width: 2200px;
+    margin: 0 auto;
+    border-radius: 12px;   /* optional */
+    overflow: hidden;
+}
+
 .mapFrame {
     width: 100%;
     height: 400px;
-    margin: 20px 0;
     border: none;
 }
+
 
 /* Footer Container */
 .templateFooter {
@@ -568,7 +576,6 @@ p{
 .customStickyFooter .button:hover {
     background-color: #eaeaea;
 } */
-
 
 
 
